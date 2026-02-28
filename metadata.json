@@ -1,0 +1,5 @@
+{
+  "name": "Temple Finder AI",
+  "description": "A modern AI-powered temple discovery platform with conversational search, maps integration, and community features.",
+  "requestFramePermissions": ["geolocation"]
+}
